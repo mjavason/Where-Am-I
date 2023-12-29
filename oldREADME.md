@@ -1,6 +1,6 @@
-# Where-Am-I
-A simple but powerful app that utilizes the browser geolocation and OpenCage geocoding API's to accurately display the users current location, down to street level.
+# Currency-Converter-API
 
+Simple currency converter API with access to current rates of over 100 countries from the Exchangeratesapi service.
 
 ## API Documentation
 
